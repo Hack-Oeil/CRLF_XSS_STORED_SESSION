@@ -1,0 +1,1 @@
+*/1 * * * * /usr/local/bin/php /var/www/html/callbot.php > /var/log/cron-callbot.log 2>&1
